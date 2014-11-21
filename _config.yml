@@ -3,7 +3,7 @@ description:      "Little black book with my poems in"
 logo:             omikron.png
 disqus_shortname: taocnrut
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       header_background.jpg
 search:           true
 share:            false
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
