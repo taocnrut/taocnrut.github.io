@@ -11,8 +11,8 @@ readtime:         true
 # Specify the average Words per minute. If not defined, 180 will be used
 wpm:				      200
 # Turn on or off the fin animations in the header and footer
-triangleheader:		true
-animated_fins:	  true
+triangleheader:   false
+animated_fins:	  false
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -29,7 +29,7 @@ owner:
   description:    Blogging, testing...
   # Social networking links used in footer. Update and remove as you like.
   twitter:        taocnrut
-  github:         taocnrut:w
+  github:         taocnrut
 #  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
 #  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
   instagram:      
